@@ -48,6 +48,18 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hoangfleez&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://facebook.com/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangf-facebook" />
+  </a>
+
+  <a href="leehoagf@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="leehoagf@email.com" />
+  </a>
+</div>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
